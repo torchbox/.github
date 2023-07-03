@@ -1,5 +1,5 @@
 # Security
 
-If you find a security issue in our website, please email us so we can work together to find and patch the issue. We appreciate responsible disclosure with any security related issues, so please contact us first before creating a GitHub issue.
+If you find a security issue in any of our projects, please email us so we can work together to find and patch the issue. We appreciate responsible disclosure with any security related issues, so please contact us first before creating a public issue.
 
 Up-to-date contact information can be found in our `security.txt`: https://torchbox.com/.well-known/security.txt.
